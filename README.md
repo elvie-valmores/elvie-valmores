@@ -45,18 +45,6 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
     <img src="https://img.shields.io/badge/-Syslog-333333?&style=for-the-badge&logo=Syslog&logoColor=white" />
 </div>
 
-### Honeypot Software
-<div>
-    <img src="https://img.shields.io/badge/-Cowrie-4B275F?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Honeyd-008080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Honeypot-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SSH Tools
-<div>
-    <img src="https://img.shields.io/badge/-OpenSSH-4B92DB?&style=for-the-badge&logo=SSH&logoColor=white" />
-</div>
-
 ### Cloud Platforms
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
