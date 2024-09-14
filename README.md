@@ -47,14 +47,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<div> 
+    <a href="https://www.credly.com/badges/48e44f9b-8cdc-4d96-9304-4197447f117c/public_url"> <img src="https://img.shields.io/badge/-ITF%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a> 
+    <a href="https://www.credly.com/badges/d8303505-d15e-4fa6-9e50-92b2b4ca3a05/public_url"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cybersecurity Home Lab
+- Honeypot using Microsoft Azure
