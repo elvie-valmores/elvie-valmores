@@ -22,41 +22,47 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 | Cloud Infrastructure Management              | [Cybersecurity Home Lab - Part 10](https://google.com) |
 
 ## Tools
-### Cloud Platforms
+### Firewalls and Network Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Monitor-0052CC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-EE8D2F?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
-### Virtualization and Infrastructure
+### Virtualization
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-0D96F2?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
-### Firewall and Network Security
-<div>
-    <img src="https://img.shields.io/badge/-pfSense-EE8D2F?&style=for-the-badge&logo=pfSense&logoColor=white" />
-</div>
-
-### Malware Analysis
+### Malware Analysis Tools
 <div>
     <img src="https://img.shields.io/badge/-Tsurugi_Linux-63B8FF?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-REMnux-6C6D6E?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### File Transfer
-<div>
-    <img src="https://img.shields.io/badge/-SCP-4A5E78?&style=for-the-badge&logo=SSH&logoColor=white" />
-</div>
-
-### Monitoring and Logging
+### Threat Detection and Logging
 <div>
     <img src="https://img.shields.io/badge/-Splunk-007A7A?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Syslog-333333?&style=for-the-badge&logo=Syslog&logoColor=white" />
 </div>
 
-### Active Directory
+### Honeypot Software
+<div>
+    <img src="https://img.shields.io/badge/-Cowrie-4B275F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Honeyd-008080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Honeypot-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### SSH Tools
+<div>
+    <img src="https://img.shields.io/badge/-OpenSSH-4B92DB?&style=for-the-badge&logo=SSH&logoColor=white" />
+</div>
+
+### Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Active Directory Management
 <div>
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
