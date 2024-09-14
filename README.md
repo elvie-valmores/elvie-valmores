@@ -14,12 +14,11 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 | Virtual Machine Setup and Administration     | [Cybersecurity Home Lab - Part 3](https://google.com), [Part 9](https://google.com) |
 | Malware Analysis                             | [Cybersecurity Home Lab - Part 8](https://google.com), [Part 11](https://google.com) |
 | Threat Detection and Logging                 | [Cybersecurity Home Lab - Part 10](https://google.com) |
-| Honeypot Deployment and Management           | [Cybersecurity Home Lab - Part 10](https://google.com) |
 | File Transfer Security                       | [Cybersecurity Home Lab - Part 11](https://google.com) |
 | SSH Configuration and Management             | [Cybersecurity Home Lab - Part 11](https://google.com) |
 | System Hardening and Security                | [Cybersecurity Home Lab - Part 6](https://google.com), [Part 7](https://google.com) |
 | Incident Response and DFIR                   | [Cybersecurity Home Lab - Part 9](https://google.com) |
-| Cloud Infrastructure Management              | [Cybersecurity Home Lab - Part 10](https://google.com) |
+| Honeypot Deployment and Management           | Honeypot using Microsoft Azure |
 
 ## Tools
 ### Firewalls and Network Security
