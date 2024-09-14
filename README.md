@@ -7,14 +7,24 @@ I am currently an IT major with a Secure Computing and Networking minor at the U
 With a strong foundation in IT and a focus on secure computing, I am actively seeking a cybersecurity internship to gain practical experience. I am eager to apply my skills, contribute to the security of critical systems, and further develop my expertise in the field.
 
 ## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Project                                  |
+|-----------------------------------------------|-----------------------------------------------------|
+| Network Topology Design                      | [Cybersecurity Home Lab - Part 1](https://google.com) |
+| Firewall and Network Security                | [Cybersecurity Home Lab - Part 2](https://google.com), [Part 4](https://google.com) |
+| Virtual Machine Setup and Administration     | [Cybersecurity Home Lab - Part 3](https://google.com), [Part 9](https://google.com) |
+| Malware Analysis                             | [Cybersecurity Home Lab - Part 8](https://google.com), [Part 11](https://google.com) |
+| Threat Detection and Logging                 | [Cybersecurity Home Lab - Part 10](https://google.com) |
+| Honeypot Deployment and Management           | [Cybersecurity Home Lab - Part 10](https://google.com) |
+| File Transfer Security                       | [Cybersecurity Home Lab - Part 11](https://google.com) |
+| SSH Configuration and Management             | [Cybersecurity Home Lab - Part 11](https://google.com) |
+| System Hardening and Security                | [Cybersecurity Home Lab - Part 6](https://google.com), [Part 7](https://google.com) |
+| Incident Response and DFIR                   | [Cybersecurity Home Lab - Part 9](https://google.com) |
+| Cloud Infrastructure Management              | [Cybersecurity Home Lab - Part 10](https://google.com) |
+| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
+| Security Automation with Shuffle SOAR        | [SOC Automation Lab](https://google.com) |
+| Incident Response Planning and Execution     | [SOC Automation Lab](https://google.com) |
+| Case Management with TheHive                 | [SOC Automation Lab](https://google.com) |
+| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://google.com) |
 
 ## Tools
 ### Network
