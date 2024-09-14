@@ -20,31 +20,45 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 | System Hardening and Security                | [Cybersecurity Home Lab - Part 6](https://google.com), [Part 7](https://google.com) |
 | Incident Response and DFIR                   | [Cybersecurity Home Lab - Part 9](https://google.com) |
 | Cloud Infrastructure Management              | [Cybersecurity Home Lab - Part 10](https://google.com) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
-| Security Automation with Shuffle SOAR        | [SOC Automation Lab](https://google.com) |
-| Incident Response Planning and Execution     | [SOC Automation Lab](https://google.com) |
-| Case Management with TheHive                 | [SOC Automation Lab](https://google.com) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://google.com) |
 
 ## Tools
-### Network
+### Cloud Platforms
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Monitor-0052CC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### Endpoint
+### Virtualization and Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-0D96F2?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
-### SIEM
+### Firewall and Network Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-EE8D2F?&style=for-the-badge&logo=pfSense&logoColor=white" />
+</div>
+
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Tsurugi_Linux-63B8FF?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REMnux-6C6D6E?&style=for-the-badge&logo=Linux&logoColor=white" />
+</div>
+
+### File Transfer
+<div>
+    <img src="https://img.shields.io/badge/-SCP-4A5E78?&style=for-the-badge&logo=SSH&logoColor=white" />
+</div>
+
+### Monitoring and Logging
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-007A7A?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Syslog-333333?&style=for-the-badge&logo=Syslog&logoColor=white" />
+</div>
+
+### Active Directory
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
