@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am currently an IT major with a Secure Computing and Networking minor at the University of Central Florida, expected to graduate in August 2026. I graduated from Valencia College with an Associate in Arts and a technical certificate in Cybersecurity. I frequently compete in CTFs and other cybersecurity competitions, which has fueled my deep passion for cybersecurity and continuous learning.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a strong foundation in IT and a focus on secure computing, I am actively seeking a cybersecurity internship to gain practical experience. I am eager to apply my skills, contribute to the security of critical systems, and further develop my expertise in the field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
