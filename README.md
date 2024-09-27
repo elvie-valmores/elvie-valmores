@@ -1,7 +1,7 @@
 # Hello, I'm Elvie Valmores
 <a href="https://linkedin.com/in/elvievalmores"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently an IT major with a Secure Computing and Networking minor at the University of Central Florida, expected to graduate in August 2026. I graduated from Valencia College with an Associate in Arts and a technical certificate in Cybersecurity. I frequently compete in CTFs and other cybersecurity competitions, which has fueled my deep passion for cybersecurity and continuous learning.
+I am currently an IT major with a Secure Computing and Networking minor at the University of Central Florida, expected to graduate in August 2026. I graduated from Valencia College with an Associate in Sciences - Cybersecurity & Network Engineering Technology. I frequently compete in CTFs and other cybersecurity competitions, which has fueled my deep passion for cybersecurity and continuous learning.
 
 ## Objective
 With a strong foundation in IT and a focus on secure computing, I am actively seeking a cybersecurity internship to gain practical experience. I am eager to apply my skills, contribute to the security of critical systems, and further develop my expertise in the field.
@@ -18,7 +18,6 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 | SSH Configuration and Management             | [Cybersecurity Home Lab - Part 11](https://google.com) |
 | System Hardening and Security                | [Cybersecurity Home Lab - Part 6](https://google.com), [Part 7](https://google.com) |
 | Incident Response and DFIR                   | [Cybersecurity Home Lab - Part 9](https://google.com) |
-| Honeypot Deployment and Management           | Honeypot using Microsoft Azure |
 
 ## Tools
 ### Firewalls and Network Security
@@ -42,11 +41,6 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 <div>
     <img src="https://img.shields.io/badge/-Splunk-007A7A?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Syslog-333333?&style=for-the-badge&logo=Syslog&logoColor=white" />
-</div>
-
-### Cloud Platforms
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Active Directory Management
