@@ -56,4 +56,4 @@ With a strong foundation in IT and a focus on secure computing, I am actively se
 
 ## Projects
 - Cybersecurity Home Lab
-- Honeypot using Microsoft Azure
+- Python Scripts
